@@ -1,4 +1,4 @@
-Django==2.1.5
+Django==2.2.24
 django-channels==0.7.0
 channels-redis==2.3.3
 psycopg2==2.7.6.1
